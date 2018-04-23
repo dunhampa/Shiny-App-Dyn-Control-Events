@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1524419214551.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3908095974",
+    "id" : "DDAD3658",
+    "lastKnownWriteTime" : 1524449296,
+    "last_content_update" : 1524449296971,
+    "path" : "~/Dyn_Shiny/app.R",
+    "project_path" : "app.R",
+    "properties" : {
+        "cursorPosition" : "2,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
